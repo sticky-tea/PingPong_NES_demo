@@ -21,7 +21,7 @@ direction_byte .rs 1
 game_over .rs 1
 
 count1 .rs 1
-count2 .rs 2
+count2 .rs 1
 
   .bank 0
   .org $C000
